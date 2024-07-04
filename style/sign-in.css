@@ -1,0 +1,9 @@
+.row .sign-bg{
+    background: url(../img/photo-8.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.form-control input{
+    border: none;
+    
+}
